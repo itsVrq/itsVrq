@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hi, My name is itsVrq, Im currently learning python and javascript<br />
-    im currently working on Minecraft Account Generator, Thanks u for viewing my page
+    im currently working on Discord Injection, Thanks u for viewing my page
   </p>
 </a>
 
